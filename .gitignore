@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS Finder metadata
+.DS_Store
+
+# Local editor settings
+.vscode/
+
+# Regenerated notebook output directories (archive selected results in data/ and figure/)
+GR_LR_BD_outputs/
+parity_violation_CS_BD_outputs/

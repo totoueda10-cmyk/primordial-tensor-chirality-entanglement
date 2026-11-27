@@ -1,0 +1,17 @@
+cff-version: "1.2.0"
+message: "Please cite this repository and the exact commit used. Formal manuscript citation and author metadata will be added when finalized."
+title: "Primordial Tensor Chirality and Quantum Entanglement"
+type: software
+authors:
+  - name: "totoueda10-cmyk"
+    website: "https://github.com/totoueda10-cmyk"
+repository-code: "https://github.com/totoueda10-cmyk/primordial-tensor-chirality-entanglement"
+abstract: "Numerical notebooks for primordial tensor helicity power spectra and chirality with entangled Gaussian initial states in general relativity and parity-violating gravity."
+keywords:
+  - cosmology
+  - inflation
+  - primordial gravitational waves
+  - tensor chirality
+  - quantum entanglement
+  - parity violation
+  - Chern-Simons gravity

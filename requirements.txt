@@ -1,0 +1,9 @@
+# Preliminary environment based on the inspected GR and CS notebooks.
+# Confirm additional General PV dependencies and pin the versions used
+# for the final manuscript calculations before releasing an archived version.
+numpy
+scipy
+matplotlib
+mpmath
+jupyterlab
+ipykernel
